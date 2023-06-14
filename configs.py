@@ -5,25 +5,24 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "12124605"))
-    API_HASH = os.getenv("API_HASH", "5cf3577d85fd02286535ec2296934287")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
-    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cynitebackup")
-#    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
+    API_ID = int(os.getenv("API_ID", "20592694"))
+    API_HASH = os.getenv("API_HASH", "153183c69860f514b62f78d7c7e296f9")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "6106262242:AAHa5slJrJ1nK19ynBF6fId-1eExkq6Rs34")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "movietadkka_search_bot")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQB3gW6bpNakMcbkextOYNfVr8T1QbSNWGbItmjUWwx1iF5m7EM8MQN8Rf4wlz1cz94GKoxoUcTy7fxBK_1mU3p0boSxKsefiyP5DagoYyIF2PcuNOy9oG39gfR5zffQ39gIeZ5GFS6O_fgn1UUWquD2vjWV8DCRc-WkENafmgd_AiX9AyDRcSFsHdsv8YYzQh79QqvWDREgzuGGVcfr7u3LvVu6sOQf75k6rU7Xbb3-GN4ggtwCsftR-pikXLLydk9hJUpQ9Yt6d6HqaW1ykSJvMRE2m0Xnd90SjIv-b2zmEEJ3NY6V9pyhPW2Tpzb-FN1pc3JqkLVuS6GTTZkZhtD3ORah7gA")
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001934627949") 
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "Movietaddka_Search_Bot")
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "957784558"))
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Vicky_Yaddav")
+    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "MovietadkkaMovies")
+#    GROUP_USERNAME = os.getenv("Movietadkka_Search")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
 I ᴀᴍ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Rᴏʙᴏᴛ 🔍.
 
-I Wɪʟʟ Pʀᴏᴠɪᴅᴇ Eᴠᴇʀʏ Mᴏᴠɪᴇ Iɴ Mᴅɪsᴋ Lɪɴᴋ 🔗
+I Wɪʟʟ Pʀᴏᴠɪᴅᴇ Eᴠᴇʀʏ Mᴏᴠɪᴇ Iɴ Terabox Lɪɴᴋ 🔗
 
-Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" ) 
-    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/7d357b72c29a6aa21fb78.jpg")
+Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" ) https://telegra.ph/File382888372-06-14")
     HOME_TEXT = os.getenv("HOME_TEXT", """ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
@@ -45,7 +44,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 
 i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ.
 
-ᴅᴍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ @CyniteSupport 🤖""" )
+ᴅᴍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ @Movietadkka 🤖""" )
     ABOUT_WATCH_TEXT = """
 ʜᴇʏ ʙᴜᴅᴅʏ, 
 
